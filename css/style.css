@@ -1,0 +1,13 @@
+.container{
+    height: 120px;
+    display: flex;
+    align-items:center;
+    justify-content: flex-end;
+    margin-right: 40px;
+}
+
+.lista-cabecalho{
+    margin-left: 20px;
+    color: #766F68;
+    font-size: 20px;
+}
