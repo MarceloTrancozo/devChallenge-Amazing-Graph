@@ -14,4 +14,17 @@
 
 .container-principal{
     display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.conteudo-principal h3{
+    font-size: 50px;
+    color: #766F68;
+}
+
+.conteudo-principal p{
+    color: #766F68;
+    margin-top: 30px;
+    font-size: 30px;
 }
