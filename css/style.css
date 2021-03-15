@@ -15,16 +15,24 @@
 .container-principal{
     display: flex;
     justify-content: center;
-    margin-top: 70px;
+    margin-top: 50px;
 }
 
 .conteudo-principal h3{
-    font-size: 50px;
+    font-size: 80px;
     color: #766F68;
+    position: absolute;
 }
 
 .conteudo-principal p{
     color: #766F68;
-    margin-top: 30px;
     font-size: 30px;
+    margin-top: 200px;
+    position: absolute;
+
+}
+
+.imagem{
+    margin-left: 390px;
+    margin-top: 25px;
 }
